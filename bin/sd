@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-require('../')(process.argv, function() {
+require('../')(process.argv.slice(2), function() {
 	process.exit();
 });
