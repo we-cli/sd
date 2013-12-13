@@ -1,6 +1,6 @@
 {
   "name": "sd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "s": "./bin/sd",
     "sd": "./bin/sd"
@@ -9,11 +9,12 @@
   "description": "A CLI tool for convinence of `sudo` on Linux",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fritz-Lium/s"
+    "url": "https://github.com/Fritz-Lium/sd"
   },
   "keywords": [
     "linux",
     "cmd",
+    "bin",
     "sudo",
     "sd",
     "s"
@@ -21,7 +22,7 @@
   "author": "Fritz-Lium <fritzlium@gmail.com> (https://github.com/Fritz-Lium)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Fritz-Lium/s/issues"
+    "url": "https://github.com/Fritz-Lium/sd/issues"
   },
-  "homepage": "https://github.com/Fritz-Lium/s"
+  "homepage": "https://github.com/Fritz-Lium/sd"
 }
